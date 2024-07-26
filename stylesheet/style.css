@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFont;
-    src: url(/assets/fonts/cooperlightbt.ttf);
+    src: url(/Landing-page-5/assets/fonts/cooperlightbt.ttf);
 }
 
 * {
@@ -139,7 +139,7 @@ body {
     bottom: -5%;
     left: 50%;
     transform: translate(-50%, 0);
-    background-image: url(/assets/images/underline-green.svg);
+    background-image: url(/Landing-page-5/assets/images/underline-green.svg);
     background-size: cover;
 }
 
@@ -278,7 +278,7 @@ body {
 .container-2 p:nth-child(2)::after {
     content: "";
     position: absolute;
-    background-image: url(/assets/images/circle-green.svg);
+    background-image: url(/Landing-page-5/assets/images/circle-green.svg);
     height: 5rem;
     width: 13rem;
     left: 37%;
