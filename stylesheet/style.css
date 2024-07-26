@@ -285,6 +285,8 @@ body {
     top: 6.5rem;
 }
 
+/* about us */
+
 .about-us {
     display: flex;
     justify-content: center;
@@ -295,7 +297,14 @@ body {
     cursor: pointer;
 }
 
-.about-us p a {
+.about-us a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us a p {
     color: #fff;
     text-decoration: none;
     text-align: center;
