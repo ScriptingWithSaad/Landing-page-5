@@ -2,4 +2,4 @@
 I am creating this Landing page with HTML and Css.
 
 Click This Link To Try Out This Page:
-https://scriptwithsaad.github.io/Landing-page-5/
+https://scriptingwithsaad.github.io/Landing-page-5/
